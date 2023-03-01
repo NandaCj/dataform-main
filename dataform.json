@@ -3,6 +3,10 @@
   "assertionSchema": "dataform_assertions",
   "warehouse": "bigquery",
   "defaultDatabase": "sheetflow-375113",
-  "defaultLocation": "US"
+  "defaultLocation": "US",
+  "gitCommitish": "TEMP",
+  "codeCompilationConfig": {
+    "schemaSuffix": "_staging"
+  }
 }
     
